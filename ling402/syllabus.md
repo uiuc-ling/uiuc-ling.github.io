@@ -35,14 +35,13 @@ active_tab: main_page
 * <span style="color: #ff0000;">Students who have already taken courses, such as CS 105, CS 125, CS 225 and equivalent or above, will NOT receive credits by taking this course, unless the student has contacted the instructor with an appropriate reason and approval is hence granted</span>.
 
 #### Course Time and Venue
-TBA
-<!-- Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20 -->
+Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/0172.html), Room 1022
 
 #### Office hours
 * Instructor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:00-4:00 PM Thursdays @ LCLB 4096
 * TA [Daniel Yeung](https://linguistics.illinois.edu/directory/profile/dcyeung2)
-	* TBD
+	* 3:00-4:00 PM Thursdays @ LCLB 3024
 	
 <!-- * TA [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2)
 	* 2:00-3:00 PM Mondays @ LCLB, Room 4103 -->
