@@ -80,11 +80,6 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/
 
 	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git. The book in multiple formats is available to [download for free](https://git-scm.com/book/en/v2). 
 
-<!-- 
-* [i>clicker](http://iclicker.illinois.edu/students.aspx)
-
-  This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
- -->
 
 #### Required Tools and Software
 
