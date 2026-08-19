@@ -8,7 +8,7 @@ active_tab: main_page
 
 
 <!-- # Syllabus (*subject to be updated in due course*) -->
-# Syllabus (Fall 2025)
+# Syllabus (Fall 2026)
 
 * [Logistics](#logistics)
   * [Course Info](#course-info)
@@ -39,7 +39,7 @@ TBA
 <!-- Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20 -->
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
+* Instructor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:00-4:00 PM Thursdays @ LCLB 4096
 * TA [Daniel Yeung](https://linguistics.illinois.edu/directory/profile/dcyeung2)
 	* TBD
