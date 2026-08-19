@@ -63,7 +63,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/
 	
 * Guido van Rossum, et al. **_The Python Tutorial and The Python Language Reference_**
 
-	This is the authoritative [tutorial](https://docs.python.org/3.12/tutorial/index.html) and [reference manual](https://docs.python.org/3.12/reference/index.html) for Python. They are readily available on the official Python website. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
+	This is the authoritative [tutorial](https://docs.python.org/3.13/tutorial/index.html) and [reference manual](https://docs.python.org/3.13/reference/index.html) for Python. They are readily available on the official Python website. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
 	
 	
 * Elkner et al., **_How to Think Like a Computer Scientist_**
@@ -93,7 +93,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/
 	__Note that if you have trouble accessing a computer and/or internet on a demand basis in order to study this course, please contact the instructor as early as possible. They will work with the department, trying their best to accommodate and solve the issue.__
 	
 
-* Programming languages taught in this course include GNU **_bash of version 5.2_** on Ubuntu 24 and **_Python of version 3.12.10_**
+* Programming languages taught in this course include GNU **_bash of version 5.2_** on Ubuntu 24 and **_Python of version 3.13.13_**
 
 	All students will have an account to access the on-campus server (the "cl" server) running Linux. This allows students to carry on practice on bash command line tools anytime online. For Mac users, bash command line tools are already installed as a part of your operating system. However, occasionally the same command may differ in the flags it takes and in the outputs it produces on Ubuntu and Mac, due to the different versions. For Windows 10 users, a Linux environment can be installed using the Windows Subsystem for Linux (WSL). Official instructions for doing so can be found [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Regardless of which system an exercise or homework is completed, it must also be tested on the on-campus server (i.e. the "cl" server) -- all the assignments will be graded based on their outputs running on the on-campus server.
 	

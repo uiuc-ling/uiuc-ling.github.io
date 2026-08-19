@@ -59,7 +59,7 @@ active_tab: syllabus
 
 * *José Unpingco*, "Python for Probability, Statistics, and Machine Learning, Second Edition", Springer, 2019.
 
-* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3.13/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.13.11/" target="_blank">Available for free in multiple formats</a>
+* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3.13/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.13.13/" target="_blank">Available for free in multiple formats</a>
 
 	This book is the authoritative reference manual for Python 3.
    
@@ -71,7 +71,7 @@ active_tab: syllabus
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python** 3.12. 
+* The programming language used in this course is **Python** 3.13. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
 	
