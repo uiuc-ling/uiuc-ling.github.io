@@ -4,14 +4,14 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling
-url_campuswire: https://campuswire.com/c/G69086320
+url_campuswire: https://campuswire.com/c/G8961C3EA
 txt_home: LING 448
 title: LING 448 - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Spring 2026)
+# Syllabus (Fall 2026)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -37,16 +37,16 @@ active_tab: syllabus
 #### Course time and venue
 
 <!-- * Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119. -->
-* Venue: [Mumford Hall (MH)](https://answers.uillinois.edu/illinois/75887) 320.
-	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
-	* Lab: **11:00 AM - 12:20 PM PM Thursdays**
+* Venue: [Transportation Building](https://answers.uillinois.edu/illinois/75887) 206.
+	* Lectures: **12:30 - 1:50 PM Tuesdays**
+	* Lab: **12:30 - 1:50 PM Thursdays**
 
 #### Office hours
-* Associate Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
-	* 4:30-5:30 PM Thursdays @ LCLB, Room 4096. 
+* Instructor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
+	* 4:00-5:00 PM Thursdays @ LCLB, Room 4096. 
 
 * Teaching Assistant [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2)
-	* 3:30-4:30 PM Tuesdays @ LCLB, Room 4103. 
+	* TBA 
 <!-- 	* Online: **3:00 - 4:00 PM Wednesdays**  -->
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1) -->
 
