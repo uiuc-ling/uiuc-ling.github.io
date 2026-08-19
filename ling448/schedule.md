@@ -13,7 +13,7 @@ active_tab: schedule
 <p style="text-align:center;"><strong>Schedule are subject to change</strong></p>
 
 
-<h2>Schedule (Spring 2026)</h2>
+<h2>Schedule (Fall 2026)</h2>
 
 <table class="table"> 
   <tbody>
@@ -24,7 +24,7 @@ active_tab: schedule
       <th>Topic</th>
       <th>Readings</th>
     </tr>
-    {% for lecture in site.data.ling448s %}
+    {% for lecture in site.data.ling448f %}
     {% if lecture.topic == "FALL BREAK" %} 
     	<tr style="background-color: #E0F8F1">
     {% else %}
