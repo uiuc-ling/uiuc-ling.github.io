@@ -149,7 +149,7 @@ Grades are assessed on a 100-point scale:
 * Daily practice makes up **10**% of the overall grade.
 * Attendance counts for **10**% of the overall grade.
 
-The final letter grade for this course will be converted from the numeric grade using the following table:
+Grading on a curve will not be used. The final letter grade for this course will be converted from the numeric grade using the following table:
 
 | Numerical grade		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Letter grade 	|
 | :----:       			|:----:|    :----   	|
@@ -209,7 +209,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in by **23:59:00 the _first_ Friday** after the lab session takes place. A homework assignment is normally due by **23:59:00 the _first_ Sunday** after it is announced. Occasionally, one homework assignment may be given two weeks to complete. In that case, the deadline will be on the second Sunday. **Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late**. If an assignment is not submitted by the fifth day after its due date, no points will be given to the assignment.
+In-class exercises during a lab session must be turned in by **23:59:00 the _first_ Friday** after the lab session takes place. A homework assignment is normally due by **23:59:00 the _first_ Sunday** after it is announced. Occasionally, one homework assignment may be given two weeks to complete. In that case, the deadline will be on the second Sunday. **Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late**. If an assignment is not submitted by the fourth day after its due date, no points will be given to the assignment.
 
 Reference solutions for lab exercises and homework assignments will be presented after the deadlines. The solutions will typically be discussed during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 

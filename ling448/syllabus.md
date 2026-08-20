@@ -123,7 +123,7 @@ Grades will be assessed on a 100-point scale:
 	* Homework: **40%**
 
 
- The final letter grade for this course will be converted from the numeric grade using the following table:
+Grading on a curve will not be used. The final letter grade for this course will be converted from the numeric grade using the following table:
 
 | Numerical grade		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Letter grade 	|
 | :----:       			|:----:|    :----   	|
@@ -181,7 +181,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before **23:59:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late.
+In-class exercises during a lab session must be turned in before **23:59:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. **Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late**. If an assignment is not submitted by the fourth day after its due date, no points will be given to the assignment.
 
 For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
