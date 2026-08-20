@@ -41,7 +41,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/
 * Instructor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:00-4:00 PM Thursdays @ LCLB 4096
 * TA [Daniel Yeung](https://linguistics.illinois.edu/directory/profile/dcyeung2)
-	* 3:00-4:00 PM Tuesdays @ LCLB 3024
+	* 3:00-4:00 PM Tuesdays @ LCLB 3034
 	
 <!-- * TA [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2)
 	* 2:00-3:00 PM Mondays @ LCLB, Room 4103 -->
