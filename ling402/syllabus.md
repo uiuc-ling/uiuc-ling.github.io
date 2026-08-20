@@ -101,7 +101,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Lincoln Hall](http://ada.fs.illinois.edu/
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 	
 If any student runs into trouble when setting up the software environment on their own machines, please reach out to the instructor and TA for help. A part of the lecture and the lab session of the first week will be devoted to making sure all essential software is installed and running.
 
