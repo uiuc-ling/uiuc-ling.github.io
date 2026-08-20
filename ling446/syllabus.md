@@ -147,7 +147,7 @@ Grades will be assessed on a 100-point scale:
 	* Bi-weekly homework: **35%**
 <!-- 	* Final project: **15%** -->
 
- The final letter grade for this course will be converted from the numeric grade using the following table:
+Grading on a curve will not be used. The final letter grade for this course will be converted from the numeric grade using the following table:
 
 | Numerical grade		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Letter grade 	|
 | :----:       			|:----:|    :----   	|
