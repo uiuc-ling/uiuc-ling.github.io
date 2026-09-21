@@ -552,13 +552,13 @@ by copying the body of d.sh into c.sh.
 Then, implement the new instructions, which are <strong>in bold</strong> below.
 Instructions not in bold are from <a class="reference external" href="hw05d.html">Part 1</a>.</p>
 <ul>
-<li><p class="first">Bash will automatically store the first positional parameter as $1</p>
+<li><p class="first">Bash will automatically store the first positional parameter, a year in four digits, as $1</p>
 <p>If a directory within the present working directory
 exists with that name (the name of the supplied year),
 delete that directory and its contents.</p>
 </li>
 <li><p class="first">Create a directory within the present working directory
-with the name of the first positional parameter (the name of the supplied year)</p>
+with the value of the first positional parameter (the name of the supplied year)</p>
 </li>
 <li><p class="first">Use a traditional shell form for-each loop to do the following:</p>
 <p>Within the year directory, create one directory for each month.</p>

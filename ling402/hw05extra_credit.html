@@ -561,13 +561,12 @@ If that number is less than 1 or greater than 1, the script should echo the foll
 <p>If the first positional parameter isn't a four-digit year, the script should echo the following message:
 &quot;Usage: $0 year&quot;, and then should exit</p>
 </li>
-<li><p class="first">Bash will automatically store the first positional parameter as $1</p>
+<li><p class="first">Bash will automatically store the first positional parameter, a year in four digits, as $1</p>
 <p>If a directory within the present working directory
 exists with that name (the name of the supplied year),
 delete that directory and its contents.</p>
 </li>
-<li><p class="first">Create a directory within the present working directory
-with the name of the first positional parameter (the name of the supplied year)</p>
+<li><p class="first">Create a directory within the present working directory with the value of the first positional parameter (the name of the supplied year)</p>
 </li>
 <li><p class="first"><strong>Within the year directory, use a C-style for loop to create one directory for each month.</strong></p>
 <p><strong>Use the date command to determine the full names of each month for the current locale.</strong></p>

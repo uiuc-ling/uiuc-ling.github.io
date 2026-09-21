@@ -556,13 +556,12 @@ Instructions not in bold are from <a class="reference external" href="hw05c.html
 <strong>If that number is less than 1 or greater than 1, the script should echo the following message:</strong></p>
 <p><strong>&quot;Usage: $0 year&quot;, and then should exit</strong></p>
 </li>
-<li><p class="first">Bash will automatically store the first positional parameter as $1</p>
+<li><p class="first">Bash will automatically store the first positional parameter, a year in four digits, as $1</p>
 <p>If a directory within the present working directory
 exists with that name (the name of the supplied year),
 delete that directory and its contents.</p>
 </li>
-<li><p class="first">Create a directory within the present working directory
-with the name of the first positional parameter (the name of the supplied year)</p>
+<li><p class="first">Create a directory within the present working directory with the value of the first positional parameter (the name of the supplied year)</p>
 </li>
 <li><p class="first">Use a traditional shell form for-each loop to do the following:</p>
 <p>Within the year directory, create one directory for each month.</p>
